@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+.DS_Store
+
+# Scraping intermediates
+data/*.html
+data/*.bin
+data/*.zip

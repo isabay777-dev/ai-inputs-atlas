@@ -1,0 +1,90 @@
+{
+  "n_countries": 136,
+  "H1_talent": {
+    "n": 136,
+    "r2": 0.8381,
+    "adj_r2": 0.8369,
+    "coef": {
+      "const": -2.6015,
+      "log_talent": 0.9184
+    },
+    "p": {
+      "const": 2.78e-13,
+      "log_talent": 7.85e-55
+    }
+  },
+  "compute_only": {
+    "n": 136,
+    "r2": 0.3464,
+    "adj_r2": 0.3415,
+    "coef": {
+      "const": 4.9263,
+      "log_compute": 1.4892
+    },
+    "p": {
+      "const": 1.27e-54,
+      "log_compute": 4.9e-14
+    }
+  },
+  "H2_joint": {
+    "n": 136,
+    "r2": 0.84,
+    "adj_r2": 0.8376,
+    "coef": {
+      "const": -2.3649,
+      "log_talent": 0.8854,
+      "log_compute": 0.1377
+    },
+    "p": {
+      "const": 3e-09,
+      "log_talent": 1.81e-42,
+      "log_compute": 0.214
+    }
+  },
+  "H2_standardized_betas": {
+    "talent": 0.8825,
+    "compute": 0.0544,
+    "talent_p": 1.81e-42,
+    "compute_p": 0.214
+  },
+  "H2_gdp_controlled": {
+    "n": 131,
+    "r2": 0.8686,
+    "adj_r2": 0.8655,
+    "coef": {
+      "const": -5.6433,
+      "log_talent": 0.8193,
+      "log_compute": 0.0606,
+      "log_gdp_pc": 0.4007
+    },
+    "p": {
+      "const": 8.51e-12,
+      "log_talent": 2.09e-38,
+      "log_compute": 0.549,
+      "log_gdp_pc": 2.84e-06
+    }
+  },
+  "H1_input_index": {
+    "n": 136,
+    "r2": 0.7046,
+    "adj_r2": 0.7024,
+    "coef": {
+      "const": 5.5312,
+      "input_index": 1.1643
+    },
+    "p": {
+      "const": 1.34e-85,
+      "input_index": 2.69e-37
+    }
+  },
+  "H3_kazakhstan": {
+    "actual_log_output": 6.4489,
+    "predicted_log_output": 6.3352,
+    "residual": 0.1137,
+    "compute_rank": 22,
+    "talent_rank": 66,
+    "n": 136,
+    "compute_percentile": 84.6,
+    "talent_percentile": 52.2
+  }
+}

@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "ai-inputs-atlas: a reproducible analysis of national AI inputs (compute and talent) and AI knowledge output"
+type: software
+authors:
+  - family-names: Yesmagambetov
+    given-names: Issabay
+    orcid: "https://orcid.org/0009-0000-4277-9524"
+version: 1.0.0
+date-released: 2026-06-16
+license: MIT
+repository-code: "https://github.com/isabay777-dev/ai-inputs-atlas"
+keywords:
+  - artificial intelligence
+  - knowledge economy
+  - human capital
+  - high-performance computing
+  - Kazakhstan

@@ -1,0 +1,25 @@
+{
+  "n": 131,
+  "features": [
+    "log_talent",
+    "log_compute",
+    "researchers_per_million",
+    "log_gdp_pc"
+  ],
+  "cv_r2": 0.7453,
+  "cv_mae": 0.9156,
+  "oof_r2": 0.7528,
+  "permutation_importance": {
+    "log_talent": 1.69601,
+    "log_gdp_pc": 0.17303,
+    "researchers_per_million": 0.08957,
+    "log_compute": 0.00837
+  },
+  "shap_importance": {
+    "log_talent": 1.96373,
+    "log_gdp_pc": 0.47706,
+    "researchers_per_million": 0.33779,
+    "log_compute": 0.08277
+  },
+  "top_feature": "log_talent"
+}

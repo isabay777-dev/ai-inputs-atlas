@@ -1,0 +1,5 @@
+feature,importance_mean,importance_std
+log_talent,1.69601,0.14963
+log_gdp_pc,0.17303,0.02374
+researchers_per_million,0.08957,0.00919
+log_compute,0.00837,0.00223

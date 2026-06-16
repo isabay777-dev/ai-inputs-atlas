@@ -1,0 +1,21 @@
+{
+  "title": "ai-inputs-atlas: a reproducible analysis of national AI inputs (compute and talent) and AI knowledge output",
+  "description": "Toolkit and machine-learning analysis measuring two legs of the AI Triad (compute and talent) across countries and testing which input binds national AI knowledge output, with a focus on a catch-up economy (Kazakhstan) against advanced benchmarks. Includes the assembled country panel, an econometric OLS core, a gradient-boosting triangulation with permutation and SHAP importance, and all figures. Accompanies the economics manuscript of the same study.",
+  "upload_type": "software",
+  "license": "MIT",
+  "access_right": "open",
+  "creators": [
+    {
+      "name": "Yesmagambetov, Issabay",
+      "orcid": "0009-0000-4277-9524"
+    }
+  ],
+  "keywords": [
+    "artificial intelligence",
+    "knowledge economy",
+    "human capital",
+    "high-performance computing",
+    "AI Triad",
+    "Kazakhstan"
+  ]
+}
