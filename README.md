@@ -1,5 +1,9 @@
 # ai-inputs-atlas
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20725737.svg)](https://doi.org/10.5281/zenodo.20725737)
+
+Archived release: https://doi.org/10.5281/zenodo.20725737
+
 A reproducible toolkit and machine-learning analysis of national **AI inputs** — compute and talent — and their link to AI knowledge output across countries, with a focus on a catch-up economy (Kazakhstan) against advanced benchmarks.
 
 This repository accompanies the economics manuscript of the same study and contains all code, the assembled country panel, the econometric core, an independent machine-learning triangulation, and the analysis outputs needed to reproduce every figure and number in the paper.

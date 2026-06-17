@@ -9,7 +9,12 @@ authors:
 version: 1.0.1
 date-released: 2026-06-16
 license: MIT
+doi: 10.5281/zenodo.20725737
 repository-code: "https://github.com/isabay777-dev/ai-inputs-atlas"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.20725737
+    description: Zenodo archive of the release
 keywords:
   - artificial intelligence
   - knowledge economy
