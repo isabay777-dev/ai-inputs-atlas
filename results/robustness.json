@@ -1,0 +1,112 @@
+{
+  "note": "HC1 robust SE; DV = log AI publications",
+  "models": [
+    {
+      "label": "R1 main joint",
+      "n": 136,
+      "r2": 0.84,
+      "coef": {
+        "log_talent": {
+          "b": 0.885,
+          "se": 0.042,
+          "p": 5.2e-97
+        },
+        "log_compute": {
+          "b": 0.138,
+          "se": 0.074,
+          "p": 0.0643
+        }
+      }
+    },
+    {
+      "label": "R2 extensive margin",
+      "n": 136,
+      "r2": 0.841,
+      "coef": {
+        "log_talent": {
+          "b": 0.883,
+          "se": 0.04,
+          "p": 3.01e-108
+        },
+        "compute_present": {
+          "b": 0.399,
+          "se": 0.197,
+          "p": 0.0427
+        }
+      }
+    },
+    {
+      "label": "R3 excl US+China",
+      "n": 134,
+      "r2": 0.826,
+      "coef": {
+        "log_talent": {
+          "b": 0.884,
+          "se": 0.043,
+          "p": 7.66e-96
+        },
+        "log_compute": {
+          "b": 0.138,
+          "se": 0.087,
+          "p": 0.111
+        }
+      }
+    },
+    {
+      "label": "R4 + R&D intensity",
+      "n": 108,
+      "r2": 0.827,
+      "coef": {
+        "log_talent": {
+          "b": 0.869,
+          "se": 0.061,
+          "p": 2.37e-45
+        },
+        "log_compute": {
+          "b": 0.15,
+          "se": 0.085,
+          "p": 0.08
+        },
+        "gerd_pct_gdp": {
+          "b": -0.026,
+          "se": 0.087,
+          "p": 0.764
+        }
+      }
+    },
+    {
+      "label": "R5 + income FE",
+      "n": 136,
+      "r2": 0.864,
+      "coef": {
+        "log_talent": {
+          "b": 0.839,
+          "se": 0.042,
+          "p": 2.74e-87
+        },
+        "log_compute": {
+          "b": 0.102,
+          "se": 0.073,
+          "p": 0.163
+        }
+      }
+    },
+    {
+      "label": "R6 + region FE",
+      "n": 136,
+      "r2": 0.874,
+      "coef": {
+        "log_talent": {
+          "b": 0.81,
+          "se": 0.05,
+          "p": 9.66e-60
+        },
+        "log_compute": {
+          "b": 0.17,
+          "se": 0.082,
+          "p": 0.0383
+        }
+      }
+    }
+  ]
+}

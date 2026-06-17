@@ -1,0 +1,726 @@
+iso3,country,year,gerd_pct_gdp
+AFW,Africa Western and Central,2019,0.27753675622014
+ARB,Arab World,2021,0.677204976660046
+ARB,Arab World,2020,0.692556634012712
+CEB,Central Europe and the Baltics,2021,1.31378933577713
+CEB,Central Europe and the Baltics,2020,1.29475970183358
+CEB,Central Europe and the Baltics,2019,1.2373983155866
+CEB,Central Europe and the Baltics,2018,1.18518960726648
+CEB,Central Europe and the Baltics,2017,1.08031819176685
+CEB,Central Europe and the Baltics,2016,1.02183784417817
+EAR,Early-demographic dividend,2020,0.800602425905232
+EAR,Early-demographic dividend,2019,0.740533919045537
+EAR,Early-demographic dividend,2018,0.736717768999456
+EAR,Early-demographic dividend,2017,0.717434106127283
+EAR,Early-demographic dividend,2016,0.754146478902507
+EAS,East Asia & Pacific,2021,2.57205418314088
+EAS,East Asia & Pacific,2020,2.50323850077846
+EAS,East Asia & Pacific,2019,2.32957147134111
+EAS,East Asia & Pacific,2018,2.32085667275762
+EAS,East Asia & Pacific,2017,2.28399081096573
+EAS,East Asia & Pacific,2016,2.30472981167949
+EAP,East Asia & Pacific (excluding high income),2021,2.30356850908002
+EAP,East Asia & Pacific (excluding high income),2020,2.11818246550529
+EAP,East Asia & Pacific (excluding high income),2019,1.95159268838427
+EAP,East Asia & Pacific (excluding high income),2018,1.88271981025026
+EAP,East Asia & Pacific (excluding high income),2017,1.87006122731725
+EAP,East Asia & Pacific (excluding high income),2016,1.87088501634354
+TEA,East Asia & Pacific (IDA & IBRD countries),2021,2.30356850908002
+TEA,East Asia & Pacific (IDA & IBRD countries),2020,2.11818246550529
+TEA,East Asia & Pacific (IDA & IBRD countries),2019,1.95159268838427
+TEA,East Asia & Pacific (IDA & IBRD countries),2018,1.88271981025026
+TEA,East Asia & Pacific (IDA & IBRD countries),2017,1.87006122731725
+TEA,East Asia & Pacific (IDA & IBRD countries),2016,1.87088501634354
+EMU,Euro area,2021,2.26733627748774
+EMU,Euro area,2020,2.30825652126088
+EMU,Euro area,2019,2.23509272346027
+EMU,Euro area,2018,2.19232231877151
+EMU,Euro area,2017,2.15903296419348
+EMU,Euro area,2016,2.1194961853925
+ECS,Europe & Central Asia,2021,2.16704280794657
+ECS,Europe & Central Asia,2020,2.18713670492678
+ECS,Europe & Central Asia,2019,2.12007796926895
+ECS,Europe & Central Asia,2018,2.06378144595511
+ECS,Europe & Central Asia,2017,2.02510689906049
+ECS,Europe & Central Asia,2016,1.97279323775483
+ECA,Europe & Central Asia (excluding high income),2021,0.859562967084761
+ECA,Europe & Central Asia (excluding high income),2020,0.855108159418339
+ECA,Europe & Central Asia (excluding high income),2019,0.833717179716434
+ECA,Europe & Central Asia (excluding high income),2018,0.831295113919328
+ECA,Europe & Central Asia (excluding high income),2017,0.810415268021982
+ECA,Europe & Central Asia (excluding high income),2016,0.800849700974275
+TEC,Europe & Central Asia (IDA & IBRD countries),2021,0.964891282474845
+TEC,Europe & Central Asia (IDA & IBRD countries),2020,1.00609669573347
+TEC,Europe & Central Asia (IDA & IBRD countries),2019,0.966621597299058
+TEC,Europe & Central Asia (IDA & IBRD countries),2018,0.929454697245154
+TEC,Europe & Central Asia (IDA & IBRD countries),2017,0.943844530742428
+TEC,Europe & Central Asia (IDA & IBRD countries),2016,0.917137787263433
+EUU,European Union,2021,2.23759658093082
+EUU,European Union,2020,2.27883499313168
+EUU,European Union,2019,2.20604558224256
+EUU,European Union,2018,2.16898047935888
+EUU,European Union,2017,2.13740058977726
+EUU,European Union,2016,2.10185696987384
+,High income,2021,2.80515741789291
+,High income,2020,2.8564239982986
+,High income,2019,2.6830918958719
+,High income,2018,2.60360747970419
+,High income,2017,2.53035156544199
+,High income,2016,2.50081088689241
+IBD,IBRD only,2021,1.76977877258058
+IBD,IBRD only,2020,1.58664993027432
+IBD,IBRD only,2019,1.43092632778038
+IBD,IBRD only,2018,1.38897622862089
+IBD,IBRD only,2017,1.33426067955088
+IBD,IBRD only,2016,1.35802219263938
+IBT,IDA & IBRD total,2021,1.74053322577915
+IBT,IDA & IBRD total,2020,1.57345166449283
+IBT,IDA & IBRD total,2019,1.38338409783433
+IBT,IDA & IBRD total,2018,1.37688671002638
+IBT,IDA & IBRD total,2017,1.30436202950775
+IBT,IDA & IBRD total,2016,1.34356787364716
+IDB,IDA blend,2019,0.239452283528228
+LTE,Late-demographic dividend,2021,1.9612158720211
+LTE,Late-demographic dividend,2020,1.92880410646348
+LTE,Late-demographic dividend,2019,1.7661779423983
+LTE,Late-demographic dividend,2018,1.67108593451989
+LTE,Late-demographic dividend,2017,1.64865822350345
+LTE,Late-demographic dividend,2016,1.64436356907334
+LCN,Latin America & Caribbean,2021,0.617669418317626
+LCN,Latin America & Caribbean,2020,0.644650990671841
+LCN,Latin America & Caribbean,2019,0.626039588392781
+LCN,Latin America & Caribbean,2018,0.638189976830421
+LCN,Latin America & Caribbean,2017,0.64722954965131
+LCN,Latin America & Caribbean,2016,0.687370764809588
+LAC,Latin America & Caribbean (excluding high income),2021,0.65530713738047
+LAC,Latin America & Caribbean (excluding high income),2020,0.680376351620474
+LAC,Latin America & Caribbean (excluding high income),2019,0.654956257581558
+LAC,Latin America & Caribbean (excluding high income),2018,0.671867235368651
+LAC,Latin America & Caribbean (excluding high income),2017,0.67976374236789
+LAC,Latin America & Caribbean (excluding high income),2016,0.725578462694824
+TLA,Latin America & the Caribbean (IDA & IBRD countries),2021,0.617669418317626
+TLA,Latin America & the Caribbean (IDA & IBRD countries),2020,0.648005726365899
+TLA,Latin America & the Caribbean (IDA & IBRD countries),2019,0.627603141865125
+TLA,Latin America & the Caribbean (IDA & IBRD countries),2018,0.640243984922371
+TLA,Latin America & the Caribbean (IDA & IBRD countries),2017,0.651329999873042
+TLA,Latin America & the Caribbean (IDA & IBRD countries),2016,0.694354678932474
+LMY,Low & middle income,2021,1.84827732913602
+LMY,Low & middle income,2020,1.63564332690256
+LMY,Low & middle income,2019,1.42909008337022
+LMY,Low & middle income,2018,1.43328296497975
+LMY,Low & middle income,2017,1.34976702753292
+LMY,Low & middle income,2016,1.39177713201084
+,Lower middle income,2019,0.517959764163889
+,Lower middle income,2017,0.560747685149503
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",2021,1.32901982491162
+MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",2021,0.538755837378145
+MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",2019,0.493250414559265
+MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",2017,0.493582619748358
+TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",2021,0.538755837378145
+TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",2019,0.493250414559265
+TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",2017,0.493582619748358
+MIC,Middle income,2021,1.85093852136786
+MIC,Middle income,2020,1.63658213914589
+MIC,Middle income,2019,1.4314832230683
+MIC,Middle income,2018,1.43350550124881
+MIC,Middle income,2017,1.35167868185249
+MIC,Middle income,2016,1.39348996088126
+NAC,North America,2021,3.34133049829466
+NAC,North America,2020,3.30880089112178
+NAC,North America,2019,3.03747833811804
+NAC,North America,2018,2.89162042822969
+NAC,North America,2017,2.78977312391718
+NAC,North America,2016,2.75307262284011
+OED,OECD members,2021,2.88919672850191
+OED,OECD members,2020,2.9156657697307
+OED,OECD members,2019,2.70700712873453
+OED,OECD members,2018,2.63865269946339
+OED,OECD members,2017,2.53378246624778
+OED,OECD members,2016,2.50845843313571
+OSS,Other small states,2021,1.42036438524053
+OSS,Other small states,2020,1.35332591842172
+OSS,Other small states,2019,1.20286637908385
+OSS,Other small states,2018,0.99117904566846
+OSS,Other small states,2017,1.04388258991912
+PST,Post-demographic dividend,2021,2.96712839203605
+PST,Post-demographic dividend,2020,3.00664036688614
+PST,Post-demographic dividend,2019,2.79101416693139
+PST,Post-demographic dividend,2018,2.73240479167308
+PST,Post-demographic dividend,2017,2.62266256034733
+PST,Post-demographic dividend,2016,2.60177339537063
+SST,Small states,2018,0.853701922172335
+SAS,South Asia,2020,0.629398082132028
+SAS,South Asia,2019,0.65942
+SAS,South Asia,2018,0.641760020059033
+SAS,South Asia,2017,0.64720145189609
+SAS,South Asia,2016,0.6495461545429
+TSA,South Asia (IDA & IBRD),2020,0.629398082132028
+TSA,South Asia (IDA & IBRD),2019,0.65942
+TSA,South Asia (IDA & IBRD),2018,0.641760020059033
+TSA,South Asia (IDA & IBRD),2017,0.64720145189609
+TSA,South Asia (IDA & IBRD),2016,0.6495461545429
+,Upper middle income,2021,1.92475052625033
+,Upper middle income,2020,1.80525938143744
+,Upper middle income,2019,1.6348578957198
+,Upper middle income,2018,1.56906879581581
+,Upper middle income,2017,1.49529776220873
+,Upper middle income,2016,1.51718484042425
+WLD,World,2021,2.51648543960967
+WLD,World,2020,2.45057247011726
+WLD,World,2019,2.25997731141173
+WLD,World,2018,2.21527458558344
+WLD,World,2017,2.13912245808838
+WLD,World,2016,2.14650210805221
+ALB,Albania,2021,0.18998
+DZA,Algeria,2017,0.47865
+AGO,Angola,2016,0.03229
+ARG,Argentina,2021,0.5236
+ARG,Argentina,2020,0.54126
+ARG,Argentina,2019,0.47813
+ARG,Argentina,2018,0.4883
+ARG,Argentina,2017,0.55632
+ARG,Argentina,2016,0.55815
+ARM,Armenia,2021,0.20557
+ARM,Armenia,2020,0.2092
+ARM,Armenia,2019,0.17854
+ARM,Armenia,2018,0.18876
+ARM,Armenia,2017,0.22788
+ARM,Armenia,2016,0.23305
+AUS,Australia,2021,1.85783
+AUS,Australia,2019,1.82826
+AUS,Australia,2017,1.88102
+AUT,Austria,2021,3.25565
+AUT,Austria,2020,3.20758
+AUT,Austria,2019,3.14405
+AUT,Austria,2018,3.10828
+AUT,Austria,2017,3.07376
+AUT,Austria,2016,3.13356
+AZE,Azerbaijan,2021,0.20836
+AZE,Azerbaijan,2020,0.2239
+AZE,Azerbaijan,2019,0.20013
+AZE,Azerbaijan,2018,0.18416
+AZE,Azerbaijan,2017,0.18468
+AZE,Azerbaijan,2016,0.20637
+BLR,Belarus,2021,0.45981
+BLR,Belarus,2020,0.53901
+BLR,Belarus,2019,0.57733
+BLR,Belarus,2018,0.60443
+BLR,Belarus,2017,0.58411
+BLR,Belarus,2016,0.50063
+BEL,Belgium,2021,3.40589
+BEL,Belgium,2020,3.36823
+BEL,Belgium,2019,3.15154
+BEL,Belgium,2018,2.86365
+BEL,Belgium,2017,2.67654
+BEL,Belgium,2016,2.53291
+BMU,Bermuda,2020,0.22546
+BMU,Bermuda,2019,0.26451
+BMU,Bermuda,2018,0.22851
+BOL,Bolivia,2021,0.06308
+BOL,Bolivia,2019,0.06643
+BOL,Bolivia,2017,0.07627
+BIH,Bosnia and Herzegovina,2021,0.19035
+BIH,Bosnia and Herzegovina,2020,0.20325
+BIH,Bosnia and Herzegovina,2019,0.19001
+BIH,Bosnia and Herzegovina,2018,0.19199
+BIH,Bosnia and Herzegovina,2017,0.1978
+BIH,Bosnia and Herzegovina,2016,0.21337
+BRA,Brazil,2021,1.13371
+BRA,Brazil,2020,1.21907
+BRA,Brazil,2019,1.15115
+BRA,Brazil,2018,1.15016
+BRA,Brazil,2017,1.1175
+BRA,Brazil,2016,1.19584
+BRN,Brunei Darussalam,2018,0.27764
+BGR,Bulgaria,2021,0.76933
+BGR,Bulgaria,2020,0.84549
+BGR,Bulgaria,2019,0.83576
+BGR,Bulgaria,2018,0.75505
+BGR,Bulgaria,2017,0.74037
+BGR,Bulgaria,2016,0.77009
+BFA,Burkina Faso,2021,0.25057
+BFA,Burkina Faso,2020,0.25116
+BFA,Burkina Faso,2019,0.17435
+BFA,Burkina Faso,2017,0.61361
+BDI,Burundi,2018,0.21312
+CAN,Canada,2021,1.87064
+CAN,Canada,2020,1.93413
+CAN,Canada,2019,1.75578
+CAN,Canada,2018,1.7372
+CAN,Canada,2017,1.68702
+CAN,Canada,2016,1.72903
+TCD,Chad,2016,0.23294
+CHL,Chile,2021,0.36063
+CHL,Chile,2020,0.33525
+CHL,Chile,2019,0.34243
+CHL,Chile,2018,0.36916
+CHL,Chile,2017,0.35679
+CHL,Chile,2016,0.37103
+CHN,China,2021,2.38165
+CHN,China,2020,2.35712
+CHN,China,2019,2.20144
+CHN,China,2018,2.10232
+CHN,China,2017,2.07771
+CHN,China,2016,2.0595
+COL,Colombia,2020,0.2894
+COL,Colombia,2019,0.32201
+COL,Colombia,2018,0.31233
+COL,Colombia,2017,0.26109
+COL,Colombia,2016,0.27051
+CRI,Costa Rica,2021,0.27385
+CRI,Costa Rica,2020,0.33002
+CRI,Costa Rica,2018,0.37144
+CRI,Costa Rica,2017,0.42587
+CRI,Costa Rica,2016,0.44335
+CIV,Cote d'Ivoire,2016,0.06975
+HRV,Croatia,2021,1.24187
+HRV,Croatia,2020,1.23536
+HRV,Croatia,2019,1.07723
+HRV,Croatia,2018,0.94608
+HRV,Croatia,2017,0.84354
+HRV,Croatia,2016,0.84569
+CUB,Cuba,2021,0.32282
+CUB,Cuba,2020,0.51838
+CUB,Cuba,2019,0.55308
+CUB,Cuba,2018,0.53691
+CUB,Cuba,2017,0.43066
+CUB,Cuba,2016,0.34223
+CYP,Cyprus,2021,0.77686
+CYP,Cyprus,2020,0.82581
+CYP,Cyprus,2019,0.70269
+CYP,Cyprus,2018,0.61032
+CYP,Cyprus,2017,0.54259
+CYP,Cyprus,2016,0.5197
+CZE,Czechia,2021,1.93302
+CZE,Czechia,2020,1.94537
+CZE,Czechia,2019,1.89547
+CZE,Czechia,2018,1.87652
+CZE,Czechia,2017,1.74513
+CZE,Czechia,2016,1.65411
+DNK,Denmark,2021,2.74323
+DNK,Denmark,2020,2.96533
+DNK,Denmark,2019,2.90605
+DNK,Denmark,2018,2.97895
+DNK,Denmark,2017,2.93576
+DNK,Denmark,2016,3.10209
+EGY,"Egypt, Arab Rep.",2021,0.91175
+EGY,"Egypt, Arab Rep.",2020,0.91564
+EGY,"Egypt, Arab Rep.",2019,0.79617
+EGY,"Egypt, Arab Rep.",2018,0.68839
+EGY,"Egypt, Arab Rep.",2017,0.64486
+EGY,"Egypt, Arab Rep.",2016,0.70848
+SLV,El Salvador,2021,0.16252
+SLV,El Salvador,2020,0.16299
+SLV,El Salvador,2019,0.17477
+SLV,El Salvador,2018,0.16531
+SLV,El Salvador,2017,0.18078
+SLV,El Salvador,2016,0.14493
+EST,Estonia,2021,1.75152
+EST,Estonia,2020,1.72614
+EST,Estonia,2019,1.59093
+EST,Estonia,2018,1.38298
+EST,Estonia,2017,1.25152
+EST,Estonia,2016,1.21835
+ETH,Ethiopia,2017,0.27437
+FIN,Finland,2021,3.01133
+FIN,Finland,2020,2.93278
+FIN,Finland,2019,2.81534
+FIN,Finland,2018,2.77601
+FIN,Finland,2017,2.74723
+FIN,Finland,2016,2.74716
+FRA,France,2021,2.21278
+FRA,France,2020,2.2742
+FRA,France,2019,2.19668
+FRA,France,2018,2.20407
+FRA,France,2017,2.20422
+FRA,France,2016,2.22468
+GMB,"Gambia, The",2018,0.06933
+GEO,Georgia,2021,0.24875
+GEO,Georgia,2020,0.29765
+GEO,Georgia,2019,0.28197
+GEO,Georgia,2018,0.27573
+GEO,Georgia,2017,0.26645
+GEO,Georgia,2016,0.28025
+DEU,Germany,2021,3.0786
+DEU,Germany,2020,3.0897
+DEU,Germany,2019,3.11256
+DEU,Germany,2018,3.05057
+DEU,Germany,2017,2.9886
+DEU,Germany,2016,2.88393
+GRC,Greece,2021,1.43353
+GRC,Greece,2020,1.48872
+GRC,Greece,2019,1.26236
+GRC,Greece,2018,1.2066
+GRC,Greece,2017,1.1492
+GRC,Greece,2016,1.00556
+GTM,Guatemala,2021,0.05835
+GTM,Guatemala,2020,0.04887
+GTM,Guatemala,2019,0.02642
+GTM,Guatemala,2018,0.02938
+GTM,Guatemala,2017,0.02955
+GTM,Guatemala,2016,0.02311
+HND,Honduras,2019,0.05997
+HND,Honduras,2018,0.06394
+HND,Honduras,2017,0.03994
+HKG,"Hong Kong SAR, China",2021,0.97026
+HKG,"Hong Kong SAR, China",2020,0.99236
+HKG,"Hong Kong SAR, China",2019,0.92557
+HKG,"Hong Kong SAR, China",2018,0.8633
+HKG,"Hong Kong SAR, China",2017,0.83519
+HKG,"Hong Kong SAR, China",2016,0.7915
+HUN,Hungary,2021,1.63327
+HUN,Hungary,2020,1.58067
+HUN,Hungary,2019,1.46473
+HUN,Hungary,2018,1.50196
+HUN,Hungary,2017,1.31498
+HUN,Hungary,2016,1.17645
+ISL,Iceland,2021,2.78171
+ISL,Iceland,2020,2.4864
+ISL,Iceland,2019,2.34018
+ISL,Iceland,2018,2.00081
+ISL,Iceland,2017,2.08365
+ISL,Iceland,2016,2.11011
+IND,India,2020,0.64558
+IND,India,2019,0.65942
+IND,India,2018,0.66001
+IND,India,2017,0.66603
+IND,India,2016,0.66984
+IDN,Indonesia,2020,0.28068
+IDN,Indonesia,2019,0.27129
+IDN,Indonesia,2018,0.22632
+IDN,Indonesia,2017,0.23805
+IDN,Indonesia,2016,0.24535
+IRN,"Iran, Islamic Rep.",2021,0.72665
+IRN,"Iran, Islamic Rep.",2019,0.78829
+IRN,"Iran, Islamic Rep.",2017,0.75983
+IRQ,Iraq,2021,0.0407
+IRQ,Iraq,2020,0.04053
+IRQ,Iraq,2019,0.03266
+IRQ,Iraq,2018,0.04279
+IRQ,Iraq,2017,0.04596
+IRQ,Iraq,2016,0.03737
+IRL,Ireland,2021,1.0732
+IRL,Ireland,2020,1.12466
+IRL,Ireland,2019,1.13733
+IRL,Ireland,2018,1.08244
+IRL,Ireland,2017,1.20821
+IRL,Ireland,2016,1.14954
+ISR,Israel,2021,5.75725
+ISR,Israel,2020,5.83209
+ISR,Israel,2019,5.35528
+ISR,Israel,2018,4.91965
+ISR,Israel,2017,4.74032
+ISR,Israel,2016,4.59051
+ITA,Italy,2021,1.41065
+ITA,Italy,2020,1.49869
+ITA,Italy,2019,1.45558
+ITA,Italy,2018,1.41934
+ITA,Italy,2017,1.36393
+ITA,Italy,2016,1.35915
+JPN,Japan,2021,3.27383
+JPN,Japan,2020,3.26556
+JPN,Japan,2019,3.21824
+JPN,Japan,2018,3.2192
+JPN,Japan,2017,3.16636
+JPN,Japan,2016,3.10665
+JOR,Jordan,2016,0.69547
+KAZ,Kazakhstan,2021,0.13023
+KAZ,Kazakhstan,2020,0.12602
+KAZ,Kazakhstan,2019,0.11841
+KAZ,Kazakhstan,2018,0.11683
+KAZ,Kazakhstan,2017,0.12667
+KAZ,Kazakhstan,2016,0.14179
+KOR,"Korea, Rep.",2021,4.59673
+KOR,"Korea, Rep.",2020,4.5214
+KOR,"Korea, Rep.",2019,4.36379
+KOR,"Korea, Rep.",2018,4.27155
+KOR,"Korea, Rep.",2017,4.07341
+KOR,"Korea, Rep.",2016,3.78638
+KWT,Kuwait,2020,0.17805
+KWT,Kuwait,2019,0.18512
+KWT,Kuwait,2018,0.06329
+KWT,Kuwait,2017,0.0804
+KWT,Kuwait,2016,0.07985
+KGZ,Kyrgyz Republic,2021,0.07102
+KGZ,Kyrgyz Republic,2020,0.08356
+KGZ,Kyrgyz Republic,2019,0.08535
+KGZ,Kyrgyz Republic,2018,0.10107
+KGZ,Kyrgyz Republic,2017,0.10707
+KGZ,Kyrgyz Republic,2016,0.11121
+LVA,Latvia,2021,0.77085
+LVA,Latvia,2020,0.75663
+LVA,Latvia,2019,0.6602
+LVA,Latvia,2018,0.66138
+LVA,Latvia,2017,0.53004
+LVA,Latvia,2016,0.45065
+LIE,Liechtenstein,2019,5.86833
+LTU,Lithuania,2021,1.10044
+LTU,Lithuania,2020,1.12379
+LTU,Lithuania,2019,0.98701
+LTU,Lithuania,2018,0.92781
+LTU,Lithuania,2017,0.8963
+LTU,Lithuania,2016,0.84391
+LUX,Luxembourg,2021,1.03153
+LUX,Luxembourg,2020,1.09627
+LUX,Luxembourg,2019,1.18209
+LUX,Luxembourg,2018,1.17039
+LUX,Luxembourg,2017,1.23898
+LUX,Luxembourg,2016,1.2669
+MAC,"Macao SAR, China",2021,0.37318
+MAC,"Macao SAR, China",2020,0.45327
+MAC,"Macao SAR, China",2019,0.24721
+MAC,"Macao SAR, China",2018,0.20113
+MAC,"Macao SAR, China",2017,0.1721
+MAC,"Macao SAR, China",2016,0.23492
+MDG,Madagascar,2017,0.01275
+MDG,Madagascar,2016,0.01264
+MWI,Malawi,2019,0.17752
+MYS,Malaysia,2020,0.95055
+MYS,Malaysia,2018,1.04026
+MYS,Malaysia,2016,1.41517
+MLI,Mali,2021,0.14596
+MLI,Mali,2019,0.13306
+MLI,Mali,2017,0.24505
+MLT,Malta,2021,0.59682
+MLT,Malta,2020,0.60002
+MLT,Malta,2019,0.54851
+MLT,Malta,2018,0.54557
+MLT,Malta,2017,0.52592
+MLT,Malta,2016,0.54032
+MRT,Mauritania,2018,0.01019
+MUS,Mauritius,2021,0.36784
+MUS,Mauritius,2020,0.40299
+MUS,Mauritius,2019,0.35699
+MUS,Mauritius,2018,0.33387
+MUS,Mauritius,2017,0.35423
+MEX,Mexico,2021,0.27305
+MEX,Mexico,2020,0.29185
+MEX,Mexico,2019,0.27629
+MEX,Mexico,2018,0.29816
+MEX,Mexico,2017,0.31955
+MEX,Mexico,2016,0.37601
+MDA,Moldova,2021,0.23154
+MDA,Moldova,2020,0.23511
+MDA,Moldova,2019,0.24145
+MDA,Moldova,2018,0.25626
+MDA,Moldova,2017,0.25789
+MDA,Moldova,2016,0.28005
+MNG,Mongolia,2021,0.10008
+MNG,Mongolia,2020,0.13301
+MNG,Mongolia,2019,0.0927
+MNG,Mongolia,2018,0.10161
+MNG,Mongolia,2017,0.1342
+MNG,Mongolia,2016,0.18346
+MNE,Montenegro,2019,0.36328
+MNE,Montenegro,2018,0.50374
+MNE,Montenegro,2017,0.34898
+MNE,Montenegro,2016,0.32454
+MMR,Myanmar,2021,0.12402
+MMR,Myanmar,2020,0.15568
+MMR,Myanmar,2019,0.08341
+MMR,Myanmar,2018,0.05881
+MMR,Myanmar,2017,0.03218
+NLD,Netherlands,2021,2.21542
+NLD,Netherlands,2020,2.26514
+NLD,Netherlands,2019,2.14036
+NLD,Netherlands,2018,2.1027
+NLD,Netherlands,2017,2.14167
+NLD,Netherlands,2016,2.11546
+NZL,New Zealand,2021,1.48604
+NZL,New Zealand,2019,1.4642
+NZL,New Zealand,2017,1.34788
+NGA,Nigeria,2019,0.28444
+MKD,North Macedonia,2021,0.37252
+MKD,North Macedonia,2020,0.37264
+MKD,North Macedonia,2019,0.36783
+MKD,North Macedonia,2018,0.36367
+MKD,North Macedonia,2017,0.35439
+MKD,North Macedonia,2016,0.43585
+NOR,Norway,2021,1.88764
+NOR,Norway,2020,2.24436
+NOR,Norway,2019,2.13599
+NOR,Norway,2018,2.03482
+NOR,Norway,2017,2.08168
+NOR,Norway,2016,2.03286
+OMN,Oman,2021,0.29266
+OMN,Oman,2020,0.31599
+OMN,Oman,2019,0.27255
+OMN,Oman,2018,0.19031
+OMN,Oman,2017,0.19925
+OMN,Oman,2016,0.22691
+PAK,Pakistan,2021,0.16431
+PAK,Pakistan,2019,0.17475
+PAK,Pakistan,2017,0.21214
+PAN,Panama,2021,0.17691
+PAN,Panama,2020,0.23246
+PAN,Panama,2019,0.13613
+PAN,Panama,2018,0.13355
+PAN,Panama,2017,0.13083
+PAN,Panama,2016,0.12829
+PNG,Papua New Guinea,2016,0.03158
+PRY,Paraguay,2021,0.14398
+PRY,Paraguay,2020,0.15697
+PRY,Paraguay,2019,0.13751
+PRY,Paraguay,2018,0.14684
+PRY,Paraguay,2017,0.14888
+PRY,Paraguay,2016,0.11676
+PER,Peru,2021,0.13754
+PER,Peru,2020,0.17229
+PER,Peru,2019,0.15696
+PER,Peru,2018,0.12683
+PER,Peru,2017,0.12085
+PER,Peru,2016,0.12008
+PHL,Philippines,2020,0.27625
+PHL,Philippines,2019,0.25926
+PHL,Philippines,2018,0.32222
+POL,Poland,2021,1.41558
+POL,Poland,2020,1.37128
+POL,Poland,2019,1.3088
+POL,Poland,2018,1.19426
+POL,Poland,2017,1.03055
+POL,Poland,2016,0.9616
+PRT,Portugal,2021,1.66711
+PRT,Portugal,2020,1.60979
+PRT,Portugal,2019,1.39487
+PRT,Portugal,2018,1.35078
+PRT,Portugal,2017,1.32224
+PRT,Portugal,2016,1.2815
+QAT,Qatar,2021,0.68058
+QAT,Qatar,2018,0.53129
+ROU,Romania,2021,0.47108
+ROU,Romania,2020,0.46414
+ROU,Romania,2019,0.47491
+ROU,Romania,2018,0.49698
+ROU,Romania,2017,0.50693
+ROU,Romania,2016,0.48863
+RUS,Russian Federation,2021,0.96602
+RUS,Russian Federation,2020,1.09099
+RUS,Russian Federation,2019,1.03531
+RUS,Russian Federation,2018,0.99001
+RUS,Russian Federation,2017,1.10967
+RUS,Russian Federation,2016,1.10238
+RWA,Rwanda,2019,0.75853
+RWA,Rwanda,2016,0.64945
+SAU,Saudi Arabia,2021,0.39379
+SAU,Saudi Arabia,2020,0.47618
+SRB,Serbia,2021,0.94784
+SRB,Serbia,2020,0.86478
+SRB,Serbia,2019,0.84798
+SRB,Serbia,2018,0.88154
+SRB,Serbia,2017,0.83834
+SRB,Serbia,2016,0.80779
+SYC,Seychelles,2016,0.2017
+SGP,Singapore,2021,1.93761
+SGP,Singapore,2020,2.15983
+SGP,Singapore,2019,1.88845
+SGP,Singapore,2018,1.80836
+SGP,Singapore,2017,1.89683
+SGP,Singapore,2016,2.06892
+SVK,Slovak Republic,2021,0.90093
+SVK,Slovak Republic,2020,0.88944
+SVK,Slovak Republic,2019,0.82138
+SVK,Slovak Republic,2018,0.83184
+SVK,Slovak Republic,2017,0.88153
+SVK,Slovak Republic,2016,0.78513
+SVN,Slovenia,2021,2.13847
+SVN,Slovenia,2020,2.15559
+SVN,Slovenia,2019,2.05725
+SVN,Slovenia,2018,1.96365
+SVN,Slovenia,2017,1.88219
+SVN,Slovenia,2016,2.02922
+ZAF,South Africa,2021,0.6139
+ZAF,South Africa,2020,0.60296
+ZAF,South Africa,2019,0.61304
+ZAF,South Africa,2018,0.68586
+ZAF,South Africa,2017,0.76257
+ZAF,South Africa,2016,0.74992
+ESP,Spain,2021,1.39617
+ESP,Spain,2020,1.39637
+ESP,Spain,2019,1.24207
+ESP,Spain,2018,1.23288
+ESP,Spain,2017,1.20198
+ESP,Spain,2016,1.1808
+LKA,Sri Lanka,2020,0.11616
+LKA,Sri Lanka,2018,0.11949
+LKA,Sri Lanka,2017,0.11818
+LKA,Sri Lanka,2016,0.12034
+SWE,Sweden,2021,3.41565
+SWE,Sweden,2020,3.50181
+SWE,Sweden,2019,3.39847
+SWE,Sweden,2018,3.34602
+SWE,Sweden,2017,3.39374
+SWE,Sweden,2016,3.25643
+CHE,Switzerland,2021,3.24862
+CHE,Switzerland,2019,3.14983
+CHE,Switzerland,2017,3.04671
+TJK,Tajikistan,2020,0.08969
+TJK,Tajikistan,2019,0.09367
+TJK,Tajikistan,2018,0.09401
+TJK,Tajikistan,2017,0.10957
+TJK,Tajikistan,2016,0.10622
+THA,Thailand,2021,1.20822
+THA,Thailand,2020,1.32818
+THA,Thailand,2019,1.14317
+THA,Thailand,2018,1.11375
+THA,Thailand,2017,1.00165
+THA,Thailand,2016,0.77829
+TTO,Trinidad and Tobago,2021,0.05445
+TTO,Trinidad and Tobago,2020,0.06455
+TTO,Trinidad and Tobago,2019,0.06007
+TTO,Trinidad and Tobago,2018,0.08371
+TTO,Trinidad and Tobago,2017,0.08587
+TTO,Trinidad and Tobago,2016,0.08662
+TUN,Tunisia,2019,0.74658
+TUN,Tunisia,2018,0.71645
+TUN,Tunisia,2017,0.69953
+TUN,Tunisia,2016,0.56539
+TUR,Turkiye,2021,1.40209
+TUR,Turkiye,2020,1.36748
+TUR,Turkiye,2019,1.3196
+TUR,Turkiye,2018,1.27093
+TUR,Turkiye,2017,1.17632
+TUR,Turkiye,2016,1.11979
+TKM,Turkmenistan,2021,0.1
+TKM,Turkmenistan,2020,0.13
+TKM,Turkmenistan,2019,0.11
+TKM,Turkmenistan,2018,0.08
+TKM,Turkmenistan,2017,0.09
+TKM,Turkmenistan,2016,0.16
+UKR,Ukraine,2021,0.38478
+UKR,Ukraine,2020,0.40318
+UKR,Ukraine,2019,0.43384
+UKR,Ukraine,2018,0.47113
+UKR,Ukraine,2017,0.44878
+UKR,Ukraine,2016,0.48339
+ARE,United Arab Emirates,2021,1.49469
+ARE,United Arab Emirates,2020,1.48831
+ARE,United Arab Emirates,2019,1.31065
+ARE,United Arab Emirates,2018,1.26389
+ARE,United Arab Emirates,2016,0.9318
+GBR,United Kingdom,2021,2.89968
+GBR,United Kingdom,2020,2.93993
+GBR,United Kingdom,2019,2.6707
+GBR,United Kingdom,2018,2.70889
+GBR,United Kingdom,2017,2.32602
+GBR,United Kingdom,2016,2.32051
+USA,United States,2021,3.4689
+USA,United States,2020,3.41788
+USA,United States,2019,3.14297
+USA,United States,2018,2.98956
+USA,United States,2017,2.88315
+USA,United States,2016,2.83677
+URY,Uruguay,2021,0.61467
+URY,Uruguay,2020,0.67606
+URY,Uruguay,2019,0.56805
+URY,Uruguay,2018,0.50484
+URY,Uruguay,2017,0.44052
+URY,Uruguay,2016,0.37391
+UZB,Uzbekistan,2021,0.11843
+UZB,Uzbekistan,2020,0.12554
+UZB,Uzbekistan,2019,0.10128
+UZB,Uzbekistan,2018,0.11164
+UZB,Uzbekistan,2017,0.13212
+UZB,Uzbekistan,2016,0.17238
+VNM,Viet Nam,2021,0.42494
+VNM,Viet Nam,2019,0.41652
+VNM,Viet Nam,2017,0.41895
