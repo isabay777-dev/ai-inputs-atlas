@@ -82,6 +82,22 @@ def main():
         rG, _ = ols(yg, Xg, ["log_talent", "log_compute", "log_gdp_pc"])
         out["H2_gdp_controlled"] = rG
 
+    # collinearity diagnostics: is the "compute drops out" result an artifact?
+    corr_tc = float(np.corrcoef(xt, xc)[0, 1])
+    vif = 1.0 / (1.0 - corr_tc ** 2)
+    out["collinearity"] = {"corr_talent_compute": round(corr_tc, 3), "vif": round(vif, 2)}
+
+    # per-capita / intensity model: breaks the mechanical scale link (output ~ researchers)
+    pop = np.array([r["pop"] if "pop" in r else None for r in rows])
+    rIdxpc = None
+    if all("rpm" in r for r in rows):
+        # need population; recompute from total_res and rpm: pop = total_res / rpm * 1e6
+        popv = np.array([r["total_res"] / r["rpm"] * 1e6 for r in rows])
+        ypc = np.log(np.array([r["output"] for r in rows]) / popv * 1e6)
+        xti = np.log(np.array([r["rpm"] for r in rows]))
+        rPC, _ = ols(ypc, np.column_stack([xti, xc]), ["log_talent_intensity", "log_compute"])
+        out["robustness_per_capita"] = rPC
+
     index = zt + zc
     rIdx, mIdx = ols(y, index, ["input_index"]); out["H1_input_index"] = rIdx
 
@@ -91,6 +107,10 @@ def main():
         pred = float(mC.predict(sm.add_constant(np.column_stack([xt, xc])))[kz])
         comp_rank = 1 + sum(1 for r in rows if r["systems"] > rows[kz]["systems"])
         tal_rank = 1 + sum(1 for r in rows if r["rpm"] > rows[kz]["rpm"])
+        # continuous imbalance: standardised compute minus standardised talent
+        gap = zc - zt
+        kz_gap = float(gap[kz])
+        gap_rank = 1 + sum(1 for g in gap if g > kz_gap)  # 1 = most compute-tilted
         out["H3_kazakhstan"] = dict(
             actual_log_output=round(float(y[kz]), 4),
             predicted_log_output=round(pred, 4),
@@ -98,6 +118,8 @@ def main():
             compute_rank=comp_rank, talent_rank=tal_rank, n=len(rows),
             compute_percentile=round(100 * (1 - (comp_rank - 1) / len(rows)), 1),
             talent_percentile=round(100 * (1 - (tal_rank - 1) / len(rows)), 1),
+            compute_minus_talent_z=round(kz_gap, 3),
+            imbalance_rank=gap_rank,
         )
 
     with open(os.path.join(RES, "ols_results.json"), "w") as f:

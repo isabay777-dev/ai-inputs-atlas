@@ -64,6 +64,25 @@
       "log_gdp_pc": 2.84e-06
     }
   },
+  "collinearity": {
+    "corr_talent_compute": 0.605,
+    "vif": 1.58
+  },
+  "robustness_per_capita": {
+    "n": 136,
+    "r2": 0.7584,
+    "adj_r2": 0.7547,
+    "coef": {
+      "const": -2.9229,
+      "log_talent_intensity": 0.9359,
+      "log_compute": 0.0125
+    },
+    "p": {
+      "const": 5.15e-16,
+      "log_talent_intensity": 5.27e-39,
+      "log_compute": 0.898
+    }
+  },
   "H1_input_index": {
     "n": 136,
     "r2": 0.7046,
@@ -85,6 +104,8 @@
     "talent_rank": 66,
     "n": 136,
     "compute_percentile": 84.6,
-    "talent_percentile": 52.2
+    "talent_percentile": 52.2,
+    "compute_minus_talent_z": 0.382,
+    "imbalance_rank": 49
   }
 }
