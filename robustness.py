@@ -93,6 +93,14 @@ def main():
     rd = np.array([[1.0 if reg[c] == R else 0.0 for R in regs[1:]] for c in codes])
     out["models"].append(fit(y, np.column_stack([lt, lc, rd]), ["log_talent", "log_compute"] + ["reg_" + R for R in regs[1:]], "R6 + region FE"))
 
+    # R7: lagged compute from the June 2024 TOP500 list (predates the output window;
+    # Kazakhstan had zero systems before its November 2025 debut). Source: TOP500 June 2024.
+    jun24 = {"USA": 171, "CHN": 80, "DEU": 40, "FRA": 24, "JPN": 29, "ITA": 11, "KOR": 13,
+             "NLD": 9, "POL": 8, "BRA": 8, "RUS": 7, "GBR": 16, "CHE": 5, "CAN": 10,
+             "SAU": 7, "IND": 4, "KAZ": 0}
+    lc24 = np.array([math.log1p(jun24.get(c, 0)) for c in codes])
+    out["models"].append(fit(y, np.column_stack([lt, lc24]), ["log_talent", "log_compute_2024"], "R7 lagged compute (June 2024)"))
+
     with open(os.path.join(RES, "robustness.json"), "w") as f:
         json.dump(out, f, indent=2)
     print("\nWrote results/robustness.json")
