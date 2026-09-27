@@ -6,15 +6,14 @@ authors:
   - family-names: Yesmagambetov
     given-names: Issabay
     orcid: "https://orcid.org/0009-0000-4277-9524"
-version: 1.0.1
-date-released: 2026-06-16
+version: 2.0.0
+date-released: 2026-09-27
 license: MIT
-doi: 10.5281/zenodo.20725737
 repository-code: "https://github.com/isabay777-dev/ai-inputs-atlas"
 identifiers:
   - type: doi
     value: 10.5281/zenodo.20725737
-    description: Zenodo archive of the release
+    description: Zenodo archive of release v1.0.1 (the v2.0.0 DOI is assigned by Zenodo on release)
 keywords:
   - artificial intelligence
   - knowledge economy

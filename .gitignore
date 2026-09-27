@@ -9,3 +9,7 @@ venv/
 data/*.html
 data/*.bin
 data/*.zip
+
+# TOP500 system-level lists and site classifications are not redistributed; regenerate with revision/scrape_top500.py
+revision/data/top500_20*.csv
+revision/data/top500_site_segments.csv

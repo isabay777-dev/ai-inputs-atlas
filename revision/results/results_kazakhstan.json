@@ -1,0 +1,228 @@
+{
+ "n_all": 136,
+ "n_hpc_nov2025": 41,
+ "kazakhstan": {
+  "iso3": "KAZ",
+  "country": "Kazakhstan",
+  "systems": 2.0,
+  "val": 38.41,
+  "rmax_pc": 1.87,
+  "researchers_per_million": 758.01,
+  "pc_comp_int": 81.6,
+  "pc_tal_int": 52.2,
+  "gap_int": 29.4,
+  "pc_comp_lvl": 82.4,
+  "pc_tal_lvl": 59.6,
+  "gap_lvl": 22.8,
+  "rank_comp_lvl": 25,
+  "rank_tal_lvl": 56
+ },
+ "benchmarks": [
+  {
+   "iso3": "CHE",
+   "country": "Switzerland",
+   "systems": 3.0,
+   "val": 450.3,
+   "rmax_pc": 50.0,
+   "researchers_per_million": 6107.96,
+   "pc_comp_int": 99.3,
+   "pc_tal_int": 93.4,
+   "gap_int": 5.9,
+   "pc_comp_lvl": 97.1,
+   "pc_tal_lvl": 77.9,
+   "gap_lvl": 19.2,
+   "rank_comp_lvl": 5,
+   "rank_tal_lvl": 31
+  },
+  {
+   "iso3": "CHN",
+   "country": "China",
+   "systems": 40.0,
+   "val": 204.91,
+   "rmax_pc": 0.15,
+   "researchers_per_million": 2107.27,
+   "pc_comp_int": 72.8,
+   "pc_tal_int": 68.4,
+   "gap_int": 4.4,
+   "pc_comp_lvl": 91.2,
+   "pc_tal_lvl": 100.0,
+   "gap_lvl": -8.8,
+   "rank_comp_lvl": 13,
+   "rank_tal_lvl": 1
+  },
+  {
+   "iso3": "DEU",
+   "country": "Germany",
+   "systems": 40.0,
+   "val": 1396.14,
+   "rmax_pc": 16.72,
+   "researchers_per_million": 5926.07,
+   "pc_comp_int": 97.1,
+   "pc_tal_int": 90.4,
+   "gap_int": 6.7,
+   "pc_comp_lvl": 98.5,
+   "pc_tal_lvl": 97.8,
+   "gap_lvl": 0.7,
+   "rank_comp_lvl": 3,
+   "rank_tal_lvl": 4
+  },
+  {
+   "iso3": "KAZ",
+   "country": "Kazakhstan",
+   "systems": 2.0,
+   "val": 38.41,
+   "rmax_pc": 1.87,
+   "researchers_per_million": 758.01,
+   "pc_comp_int": 81.6,
+   "pc_tal_int": 52.2,
+   "gap_int": 29.4,
+   "pc_comp_lvl": 82.4,
+   "pc_tal_lvl": 59.6,
+   "gap_lvl": 22.8,
+   "rank_comp_lvl": 25,
+   "rank_tal_lvl": 56
+  },
+  {
+   "iso3": "NLD",
+   "country": "Netherlands",
+   "systems": 7.0,
+   "val": 291.3,
+   "rmax_pc": 16.19,
+   "researchers_per_million": 6563.34,
+   "pc_comp_int": 96.3,
+   "pc_tal_int": 94.1,
+   "gap_int": 2.2,
+   "pc_comp_lvl": 93.4,
+   "pc_tal_lvl": 86.0,
+   "gap_lvl": 7.4,
+   "rank_comp_lvl": 10,
+   "rank_tal_lvl": 20
+  },
+  {
+   "iso3": "POL",
+   "country": "Poland",
+   "systems": 8.0,
+   "val": 70.99,
+   "rmax_pc": 1.94,
+   "researchers_per_million": 3675.06,
+   "pc_comp_int": 83.1,
+   "pc_tal_int": 78.7,
+   "gap_int": 4.4,
+   "pc_comp_lvl": 87.5,
+   "pc_tal_lvl": 89.0,
+   "gap_lvl": -1.5,
+   "rank_comp_lvl": 18,
+   "rank_tal_lvl": 16
+  },
+  {
+   "iso3": "USA",
+   "country": "United States",
+   "systems": 171.0,
+   "val": 6961.3,
+   "rmax_pc": 20.47,
+   "researchers_per_million": 4937.49,
+   "pc_comp_int": 97.8,
+   "pc_tal_int": 83.8,
+   "gap_int": 14.0,
+   "pc_comp_lvl": 100.0,
+   "pc_tal_lvl": 99.3,
+   "gap_lvl": 0.7,
+   "rank_comp_lvl": 1,
+   "rank_tal_lvl": 2
+  }
+ ],
+ "group_b": {
+  "n": 44,
+  "n_with_hpc": 8,
+  "kaz_rank_gap_int": 3,
+  "kaz_rank_gap_lvl": 7,
+  "top5_gap_int": [
+   [
+    "GTM",
+    0.0,
+    34.6
+   ],
+   [
+    "DOM",
+    0.0,
+    31.6
+   ],
+   [
+    "KAZ",
+    2.0,
+    29.4
+   ],
+   [
+    "VNM",
+    1.0,
+    23.5
+   ],
+   [
+    "BRA",
+    10.0,
+    22.8
+   ]
+  ],
+  "members_with_hpc": [
+   [
+    "ARG",
+    1.0,
+    9.6,
+    -5.1
+   ],
+   [
+    "BRA",
+    10.0,
+    22.8,
+    -2.2
+   ],
+   [
+    "CHN",
+    40.0,
+    4.4,
+    -8.8
+   ],
+   [
+    "KAZ",
+    2.0,
+    29.4,
+    22.8
+   ],
+   [
+    "RUS",
+    5.0,
+    3.6,
+    -9.5
+   ],
+   [
+    "THA",
+    2.0,
+    11.0,
+    -5.2
+   ],
+   [
+    "TUR",
+    2.0,
+    -1.5,
+    -13.9
+   ],
+   [
+    "VNM",
+    1.0,
+    23.5,
+    0.7
+   ]
+  ]
+ },
+ "all_positive_gap_int": 74,
+ "holders": {
+  "n": 41,
+  "kaz_rank_gap_int": 2,
+  "kaz_rank_gap_lvl": 3
+ },
+ "group_b_holders": {
+  "n": 8,
+  "kaz_rank_gap_int": 1,
+  "kaz_rank_gap_lvl": 1
+ }
+}

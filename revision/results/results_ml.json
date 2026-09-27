@@ -1,0 +1,59 @@
+{
+ "n": 131,
+ "features": [
+  "T",
+  "C",
+  "lgdp"
+ ],
+ "oof_r2_mean_sd": [
+  0.794,
+  0.008
+ ],
+ "oof_mae_mean_sd": [
+  0.877,
+  0.023
+ ],
+ "perm_importance_mean_sd": {
+  "T": [
+   1.29,
+   0.168
+  ],
+  "C": [
+   0.013,
+   0.012
+  ],
+  "lgdp": [
+   0.031,
+   0.026
+  ]
+ },
+ "shap_mean_abs_mean_sd": {
+  "T": [
+   1.765,
+   0.18
+  ],
+  "C": [
+   0.127,
+   0.053
+  ],
+  "lgdp": [
+   0.281,
+   0.073
+  ]
+ },
+ "share_rank1_by_fold": {
+  "T": 1.0,
+  "C": 0.0,
+  "lgdp": 0.0
+ },
+ "share_rank1_by_repeat": {
+  "T": 1.0,
+  "C": 0.0,
+  "lgdp": 0.0
+ },
+ "selected_params_top": {
+  "{'learning_rate': 0.05, 'max_depth': 2, 'max_iter': 100}": 67,
+  "{'learning_rate': 0.1, 'max_depth': 2, 'max_iter': 200}": 13,
+  "{'learning_rate': 0.05, 'max_depth': 2, 'max_iter': 200}": 12
+ }
+}

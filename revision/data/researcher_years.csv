@@ -1,0 +1,137 @@
+iso3,country,researchers_year,pub_year,top500_systems,gdp_missing
+NIC,Nicaragua,1997,2024,0,False
+LAO,Laos,2002,2024,0,False
+NPL,Nepal,2002,2024,0,False
+CIV,Cote d'Ivoire,2005,2024,0,False
+MCO,Monaco,2005,2024,0,True
+SYC,Seychelles,2005,2022,0,False
+ZMB,Zambia,2008,2024,0,False
+AUS,Australia,2010,2024,4,False
+BFA,Burkina Faso,2010,2024,0,False
+ZWE,Zimbabwe,2012,2024,0,False
+BWA,Botswana,2013,2024,0,False
+NER,Niger,2013,2024,0,False
+TZA,Tanzania,2013,2024,0,False
+BRA,Brazil,2014,2024,10,False
+CPV,Cape Verde,2014,2024,0,False
+ECU,Ecuador,2014,2024,0,False
+GHA,Ghana,2015,2024,0,False
+KHM,Cambodia,2015,2024,0,False
+MOZ,Mozambique,2015,2024,0,False
+SEN,Senegal,2015,2024,0,False
+SWZ,Eswatini,2015,2024,0,False
+AGO,Angola,2016,2024,0,False
+MAR,Morocco,2016,2024,0,False
+PNG,Papua New Guinea,2016,2024,0,False
+TCD,Chad,2016,2024,0,False
+COL,Colombia,2017,2024,0,False
+ETH,Ethiopia,2017,2024,0,False
+GBR,United Kingdom,2017,2024,9,False
+JOR,Jordan,2017,2024,0,False
+BDI,Burundi,2018,2024,0,False
+GMB,Gambia,2018,2024,0,False
+MDG,Madagascar,2018,2024,0,False
+HND,Honduras,2019,2024,0,False
+MNE,Montenegro,2019,2024,0,False
+MWI,Malawi,2019,2024,0,False
+NGA,Nigeria,2019,2024,0,False
+IDN,Indonesia,2020,2024,0,False
+IND,India,2020,2024,6,False
+PHL,Philippines,2020,2024,0,False
+ARE,United Arab Emirates,2021,2024,5,False
+BOL,Bolivia,2021,2024,0,False
+IRN,Iran,2021,2024,0,False
+IRQ,Iraq,2021,2024,0,False
+QAT,Qatar,2021,2024,0,False
+ALB,Albania,2022,2024,0,False
+BRN,Brunei,2022,2024,0,False
+CAN,Canada,2022,2024,19,False
+CHL,Chile,2022,2024,0,False
+COG,Congo,2022,2024,0,False
+DOM,Dominican Republic,2022,2024,0,False
+LKA,Sri Lanka,2022,2024,0,False
+MNG,Mongolia,2022,2024,0,False
+MYS,Malaysia,2022,2024,0,False
+NAM,Namibia,2022,2024,0,False
+SGP,Singapore,2022,2024,0,False
+SYR,Syria,2022,2024,0,True
+TTO,Trinidad and Tobago,2022,2024,0,False
+UKR,Ukraine,2022,2024,0,False
+USA,United States,2022,2024,171,False
+ZAF,South Africa,2022,2024,0,False
+ARG,Argentina,2023,2024,0,False
+AUT,Austria,2023,2024,0,False
+BEL,Belgium,2023,2024,0,False
+BGR,Bulgaria,2023,2024,0,False
+CHE,Switzerland,2023,2024,3,False
+CHN,China,2023,2024,40,False
+CRI,Costa Rica,2023,2024,0,False
+CYP,Cyprus,2023,2024,0,False
+CZE,Czechia,2023,2024,0,False
+DEU,Germany,2023,2024,40,False
+DNK,Denmark,2023,2024,0,False
+ESP,Spain,2023,2024,3,False
+EST,Estonia,2023,2024,0,False
+FIN,Finland,2023,2024,3,False
+FRA,France,2023,2024,22,False
+GRC,Greece,2023,2024,0,False
+GTM,Guatemala,2023,2024,0,False
+HRV,Croatia,2023,2024,0,False
+HUN,Hungary,2023,2024,0,False
+IRL,Ireland,2023,2024,0,False
+ISL,Iceland,2023,2024,1,False
+ITA,Italy,2023,2024,18,False
+JPN,Japan,2023,2024,43,False
+KOR,South Korea,2023,2024,15,False
+LIE,Liechtenstein,2023,2024,0,True
+LSO,Lesotho,2023,2024,0,False
+LTU,Lithuania,2023,2024,0,False
+LUX,Luxembourg,2023,2024,0,False
+LVA,Latvia,2023,2024,0,False
+MLI,Mali,2023,2024,0,False
+MLT,Malta,2023,2024,0,False
+MMR,Myanmar,2023,2024,0,False
+NLD,Netherlands,2023,2024,7,False
+NOR,Norway,2023,2024,0,False
+NZL,New Zealand,2023,2024,0,False
+PAK,Pakistan,2023,2024,0,False
+POL,Poland,2023,2024,8,False
+PRT,Portugal,2023,2024,0,False
+PRY,Paraguay,2023,2024,0,False
+ROU,Romania,2023,2024,0,False
+RWA,Rwanda,2023,2024,0,False
+SLV,El Salvador,2023,2024,0,False
+SVK,Slovakia,2023,2024,0,False
+SVN,Slovenia,2023,2024,0,False
+SWE,Sweden,2023,2024,8,False
+THA,Thailand,2023,2024,0,False
+TUR,Turkey,2023,2024,0,False
+UGA,Uganda,2023,2024,0,False
+VEN,Venezuela,2023,2024,0,True
+VNM,Vietnam,2023,2024,1,False
+ARM,Armenia,2024,2024,0,False
+AZE,Azerbaijan,2024,2024,0,False
+BHR,Bahrain,2024,2024,0,False
+BIH,Bosnia and Herzegovina,2024,2024,0,False
+BLR,Belarus,2024,2024,0,False
+BTN,Bhutan,2024,2024,0,False
+CUB,Cuba,2024,2024,0,True
+DZA,Algeria,2024,2024,0,False
+EGY,Egypt,2024,2024,0,False
+GEO,Georgia,2024,2024,0,False
+KAZ,Kazakhstan,2024,2024,2,False
+KEN,Kenya,2024,2024,0,False
+KWT,Kuwait,2024,2024,0,False
+MDA,Moldova,2024,2024,0,False
+MEX,Mexico,2024,2024,0,False
+MKD,North Macedonia,2024,2024,0,False
+MUS,Mauritius,2024,2024,0,False
+OMN,Oman,2024,2024,0,False
+PAN,Panama,2024,2024,0,False
+RUS,Russia,2024,2024,5,False
+SAU,Saudi Arabia,2024,2024,7,False
+SRB,Serbia,2024,2024,0,False
+TGO,Togo,2024,2024,0,False
+TUN,Tunisia,2024,2024,0,False
+URY,Uruguay,2024,2024,0,False
+UZB,Uzbekistan,2024,2024,0,False

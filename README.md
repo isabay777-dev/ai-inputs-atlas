@@ -8,6 +8,9 @@ A reproducible toolkit and machine-learning analysis of national **AI inputs** �
 
 This repository accompanies the economics manuscript of the same study and contains all code, the assembled country panel, the econometric core, an independent machine-learning triangulation, and the analysis outputs needed to reproduce every figure and number in the paper.
 
+
+> **Version 2.0.0.** This README's sections on hypotheses, samples and results describe the first version (v1.0.1) of the study. The revised analysis, with corrected data, reformulated hypotheses and new results, is in `revision/`; see `CHANGELOG.md` for what changed and how to reproduce every table and figure.
+
 ## What this is
 
 Two of the three legs of the **AI Triad** (compute, data, talent) are observable at country level. This project measures them and asks which one actually binds national AI knowledge output.
@@ -57,7 +60,13 @@ Input datasets are governed by their own licences and terms, **not** the MIT lic
 - **TOP500** (compute) — TOP500.org, November 2025 list. https://top500.org
 - **Center for Security and Emerging Technology (CSET/ETO)** Country Activity Tracker (AI scholarly publications), distributed via **Our World in Data** (CC BY).
 - **World Bank** World Development Indicators — `SP.POP.SCIE.RD.P6` (researchers per million, sourced from UNESCO Institute for Statistics), `SP.POP.TOTL`, `NY.GDP.PCAP.PP.KD`. https://data.worldbank.org
+- **TOP500** complete lists (November 2023, June 2024, November 2025), https://top500.org; system-level lists are not redistributed (rebuild with `revision/scrape_top500.py`); derived country totals are included.
+- **CSET/ETO Country Activity Tracker v1.12.0** (AI patent applications), Melot et al. (2026), https://doi.org/10.5281/zenodo.22772306; unmodified file redistributed under CC BY-NC 4.0, https://creativecommons.org/licenses/by-nc/4.0/.
 - **Stanford HAI AI Index** (per-capita AI talent benchmarks, cited in the paper). https://aiindex.stanford.edu
+
+## Revision (v2.0.0)
+
+The analysis for the revised manuscript is in `revision/`, with corrected TOP500 data built from the complete lists, AI-patent data from the CSET/ETO Country Activity Tracker v1.12.0, and scripts for every table and figure. See `CHANGELOG.md` for the list of corrections and the reproduction commands.
 
 ## Licence
 
