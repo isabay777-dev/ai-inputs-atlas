@@ -13,7 +13,7 @@ FSU = ["ARM", "AZE", "BLR", "EST", "GEO", "KAZ", "KGZ", "LVA", "LTU", "MDA", "RU
 BENCH = ["USA", "CHN", "DEU", "NLD", "CHE", "POL"]
 p = build("2025_11").merge(pd.read_csv(os.path.join(HERE, "data", "wb_country_meta.csv")), on="iso3", how="left")
 p["rmax_pc"] = p.val / (p.population / 1e6)
-pct = lambda s: (s.rank(method="average", pct=True) * 100).round(1)
+pct = lambda s: s.rank(method="average", pct=True) * 100  # unrounded; rounding only at output
 p["pc_comp_int"], p["pc_tal_int"] = pct(p.rmax_pc), pct(p.researchers_per_million)
 p["pc_comp_lvl"], p["pc_tal_lvl"] = pct(p.val), pct(p.total_researchers)
 p["gap_int"], p["gap_lvl"] = p.pc_comp_int - p.pc_tal_int, p.pc_comp_lvl - p.pc_tal_lvl

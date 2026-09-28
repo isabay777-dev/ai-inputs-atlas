@@ -1,8 +1,8 @@
 # ai-inputs-atlas
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20725737.svg)](https://doi.org/10.5281/zenodo.20725737)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22994678.svg)](https://doi.org/10.5281/zenodo.22994678)
 
-Archived release: https://doi.org/10.5281/zenodo.20725737
+Archived releases: v2 (revised manuscript, all versions) https://doi.org/10.5281/zenodo.22994678; v1.0.1 (first submission) https://doi.org/10.5281/zenodo.20725737
 
 A reproducible toolkit and machine-learning analysis of national **AI inputs** — compute and talent — and their link to AI knowledge output across countries, with a focus on a catch-up economy (Kazakhstan) against advanced benchmarks.
 
@@ -58,7 +58,7 @@ python test_smoke.py     # quick end-to-end checks of the headline findings
 Input datasets are governed by their own licences and terms, **not** the MIT licence of this repository. Cite the originals:
 
 - **TOP500** (compute) — TOP500.org, November 2025 list. https://top500.org
-- **Center for Security and Emerging Technology (CSET/ETO)** Country Activity Tracker (AI scholarly publications), distributed via **Our World in Data** (CC BY).
+- **Center for Security and Emerging Technology (CSET/ETO)** Country Activity Tracker (AI scholarly publications), distributed via **Our World in Data**; the data are licensed by CSET/ETO under CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/), and Our World in Data preserves the upstream terms.
 - **World Bank** World Development Indicators — `SP.POP.SCIE.RD.P6` (researchers per million, sourced from UNESCO Institute for Statistics), `SP.POP.TOTL`, `NY.GDP.PCAP.PP.KD`. https://data.worldbank.org
 - **TOP500** complete lists (November 2023, June 2024, November 2025), https://top500.org; system-level lists are not redistributed (rebuild with `revision/scrape_top500.py`); derived country totals are included.
 - **CSET/ETO Country Activity Tracker v1.12.0** (AI patent applications), Melot et al. (2026), https://doi.org/10.5281/zenodo.22772306; unmodified file redistributed under CC BY-NC 4.0, https://creativecommons.org/licenses/by-nc/4.0/.

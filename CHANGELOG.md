@@ -1,5 +1,13 @@
 # Changelog
 
+## v2.0.1 — 2026-09-28
+- Robustness: added R11b (researcher data from 2022–2024, 92 economies; compute 0.141, p = 0.004) and R11c (R11b plus GDP per capita, 88 economies; compute 0.055, p = 0.24). Added after the written specification, in response to the uneven timing of the researcher data.
+- Kazakhstan comparison: percentile gaps are now computed from unrounded percentiles (Luxembourg's total gap 32.4 rather than 32.3; Kazakhstan's values unchanged); holder-only ranks are reported directly.
+- Licensing: CSET/ETO publication data are CC BY-NC 4.0 (previously stated as CC BY).
+- Figures renumbered in order of first mention in the revised manuscript (former Figures 5, 6, 7 are now 7, 5, 6); image file names are unchanged.
+- Specification record: R11b, R11c, R12 and the supplementary interaction checks (R13, R14) were added after the written revision specification (R12–R14 before they were estimated). The specification names the World Bank FY2025 income classification; the analysis uses the classification retrieved from the World Bank API in September 2026 (see `docs/`).
+- Metadata: CITATION.cff and README now point to the version-2 concept DOI (10.5281/zenodo.22994678); the written revision specification is preserved in `docs/` (in Russian, as drafted).
+
 ## v2.0.0 — 2026-09-27 (revision of the accompanying manuscript)
 
 All analyses for the revised manuscript are in `revision/` and can be reproduced with the scripts listed below. The v1 files in the repository root are kept unchanged so that the first version remains reproducible (the v1 script `robustness.py` downloads current World Bank income and region classifications, so re-running it today can shift some v1 fixed-effects estimates in the third decimal).
@@ -25,11 +33,11 @@ cd revision
 python3 scrape_top500.py          # optional: rebuild system-level TOP500 lists (a few minutes)
 python3 revision_base.py          # Table 2 baseline models
 python3 revision_robustness.py    # Table 3
-python3 revision_interaction.py   # Table 4 (publications), Figure 7 inputs, Tables B1-B3
+python3 revision_interaction.py   # Table 4 (publications), Figure 6 inputs, Tables B1-B3
 python3 revision_patents.py       # Table 4 (patents)
 python3 revision_extra.py         # Table 2 extras, joint model on GDP sample, Table B4
 python3 revision_ml.py            # Online Appendix C (about 7 minutes)
-python3 revision_kazakhstan.py    # Section 4.4, Figure 5, Table D1
+python3 revision_kazakhstan.py    # Section 4.4, Figure 7, Table D1
 python3 revision_figures.py       # Figures 1-7
 ```
 

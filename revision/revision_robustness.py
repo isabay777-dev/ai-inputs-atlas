@@ -42,6 +42,8 @@ R.append(ols(base, ["T", "C", "gerd_pct_gdp"], label="R8 + R&D intensity (GERD %
 R.append(ols(base, ["T", "C"], fe="income", label="R9 + income-group FE"))
 R.append(ols(base, ["T", "C"], fe="region", label="R10 + region FE"))
 R.append(ols(base[base.researchers_year >= 2015], ["T", "C"], label="R11 Researcher data year >= 2015"))
+R.append(ols(base[base.researchers_year >= 2022], ["T", "C"], label="R11b Researcher data year 2022-2024"))
+R.append(ols(base[base.researchers_year >= 2022], ["T", "C", "lgdp"], label="R11c Researcher data year 2022-2024, + GDP per capita"))
 d = base.copy(); d["lnRmax_if"] = np.where(d.D > 0, np.log(d.val.where(d.val > 0, 1)), 0.0)
 R.append(ols(d, ["T", "D", "lnRmax_if"], label="R12 Two-part: any system + ln(Rmax) if any"))
 d = base[~base.iso3.isin(["USA", "CHN"])].copy()
